@@ -2,17 +2,17 @@
 
 A Multiple Linear Regression model implemented completely **from scratch using NumPy** to predict house prices based on different house features.
 
-This project was built while learning Machine Learning from the **Machine Learning Specialization by Andrew Ng (Course 1)**.
+This project was built while learning Machine Learning from the **Machine Learning Specialisation by Andrew Ng (Course 1)**.
 
 ---
 
 ## 📌 Features
 
 - Implemented Multiple Linear Regression from scratch
-- Mean Normalization
+- Mean Normalisation
 - Cost Function (Mean Squared Error)
 - Gradient Calculation
-- Gradient Descent Optimization
+- Gradient Descent Optimisation
 - House Price Prediction
 - Compared results with Scikit-Learn
 - Interactive prediction using user input
@@ -67,7 +67,7 @@ My implementation achieved almost identical performance to Scikit-Learn.
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/House-Price-Predictor.git
+git clone https://github.com/pakicitus/House-Price-Predictor-From-scratch.git
 ```
 
 2. Install the required libraries
@@ -105,12 +105,12 @@ House-Price-Predictor/
 
 ## 📚 What I Learned
 
-Through this project I learned:
+Through this project, I learned:
 
 - Linear Regression
 - Gradient Descent
 - Cost Function
-- Feature Normalization
+- Feature Normalisation
 - Model Evaluation
 - Building ML models from scratch
 - Comparing custom implementations with Scikit-Learn
